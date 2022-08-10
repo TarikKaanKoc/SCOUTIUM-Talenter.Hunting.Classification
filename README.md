@@ -1,4 +1,8 @@
-<img src="https://github.com/TarikKaanKoc/SCOUT-UM-Talenter.Hunting.Classification/blob/main/image_read.png?raw=True" width="8000" align="center">
+
+
+  SCOUTIUM           
+:-------------------------:|
+![IMAGE](https://github.com/TarikKaanKoc/SCOUT-UM-Talenter.Hunting.Classification/blob/main/image_read.png?raw=True)| 
 
 <div class="alert alert-primary" style="margin-top: 20px">
 
