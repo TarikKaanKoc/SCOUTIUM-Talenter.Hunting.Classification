@@ -40,7 +40,7 @@ Predicting which class (average, highlighted) player is according to the points 
 ---
     
 
-<strong><h3>Scoutium Attributes CSV File</h3><p>
+<strong><h3>Scoutium Potential Labels CSV File</h3><p>
     
 ---
 <li><strong>Total Features : 5</strong></li>
